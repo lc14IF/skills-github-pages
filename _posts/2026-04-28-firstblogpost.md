@@ -1,1 +1,4 @@
-
+---
+title: "Blog Post"
+date: 2026-04-28
+---
